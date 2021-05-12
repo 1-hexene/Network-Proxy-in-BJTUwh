@@ -1,4 +1,4 @@
-# <center>北交威**校内**科学上网代理</center>
+# <center>北交威校内科学上网代理</center>
 
 #### 本人英语水平有限，恕不提供英文版说明。
 ##### Due to limited English skills, I am sorry for not providing an English version of instructions.

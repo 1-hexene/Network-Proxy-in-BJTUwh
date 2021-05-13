@@ -32,6 +32,7 @@
 点击[这里](https://t.me/socks?server=10.148.0.187&port=8081)一键设置telegram代理。
 >由于学校内网隔离的限制,请先连接phone.wlan.bjtu或者web.wlan.bjtu,否则不能使用本代理.
 
+点击[这里](weixin://dl/chat?Qizixi83)联系我
 
 ### Mac OS
 

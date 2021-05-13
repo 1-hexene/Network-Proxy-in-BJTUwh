@@ -32,7 +32,6 @@
 点击[这里](https://t.me/socks?server=10.148.0.187&port=8081)一键设置telegram代理。
 >由于学校内网隔离的限制,请先连接phone.wlan.bjtu或者web.wlan.bjtu,否则不能使用本代理.
 
-点击[这里](https://t.me/username?qizix)联系我
 
 ### Mac OS
 
@@ -92,6 +91,7 @@
 
 ## 其他事项
 感谢您的使用。本人承诺不会收集您的任何信息。<br>
+如果遇到问题，请点击[这里](tg://resolve?domain=qizix)联系我。<br>
 您每一次悄悄使用都是对我最大的支持。
 #### **好物分享**
 最近发现的一个比我的那个还快的telegram代理：点击[这里](tg://proxy?server=193.122.102.214&port=35013&secret=eebfb71527cc7dd19a29074780058f3269617a7572652e6d6963726f736f66742e636f6d)一键设置。
